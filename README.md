@@ -1,1 +1,1 @@
-[RUN](https://github.com/Mahadev001/ML_project.git)
+[RUN](https://mahadev001.github.io/ML_project/)

@@ -7,32 +7,24 @@ In this page I shall present some of the machine learning projects I have undert
 I am a double master's graduate in engineering and an alumni of Washington State University, Nanyang Technological University and Indian Institute of Technology. In order to showcase my data science skills and a deep passion towards Data science, machine learning and artificial intelligence,  I have undertaken several machine learning projects and would like to share my work. 
 
 ### NOTE: 
-i. This repository as well as page would be frequently updated with new projects or updates.
-ii. For downloading or cloning the project folders please visit the [repository](https://github.com/Mahadev001/Mahadev-Upadhyayula.git)
-iii. Also, to view the source code files in the repossitory itself, use the 'ipynb' files in the project folders.  
+* i. This repository as well as page would be frequently updated with new projects or updates.
+* ii. For downloading or cloning the project folders please visit the [repository](https://github.com/Mahadev001/Mahadev-Upadhyayula.git)
+* iii. Also, to view the source code files in the repossitory itself, use the 'ipynb' files in the project folders.  
 
 ## Tools you'll need
--Python. Python 3 is the best option.
--IPython and the Jupyter Notebook. (FKA IPython and IPython Notebook.)
--Some scientific computing packages:
-                            --> numpy
-                            
-                            --> pandas
-                            
-                            --> scikit-learn
-                            
-                            --> matplotlib
-                            
-                            --> seaborn
-                            
-                            --> spacy
-                            
-                            --> scipy
-                            
-                            --> tensorflow
-                            
-                            --> Theano
-                         
+* -Python. Python 3 is the best option.
+* -IPython and the Jupyter Notebook. (FKA IPython and IPython Notebook.)
+* -Some scientific computing packages:
+    * numpy           
+    * pandas         
+    * scikit-learn 
+    * matplotlib
+    * seaborn
+    * spacy
+    * scipy
+    * tensorflow
+    * theano
+    
 ## Machine Learning Projects
 In order to showcase diverse machine learning concepts, I have done following machine learning projects which emphasize on anomaly detection, natural language processing and other machine learning concepts 
 

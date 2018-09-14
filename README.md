@@ -29,7 +29,9 @@ In order to showcase diverse machine learning concepts, I have done machine lear
 The dataset for this project was taken from a Kaggle project. 
 In this project, an anomaly detection algorithm has been modelled using Isolation forest and Local Outlier Factor algorithms in order to precisely identify the fradulent credit card transactions. A model with precision of about 39% has been realized  using the Isolation Forest algorithm. Further, improvements to the model would be updated.
 
-To view the project notebook: [Credit Card Fraud Detection](https://mahadev001.github.io/Mahadev-Upadhyayula/Credit-Card-Fraud-Detection-via-Anmoly-Detection-python-/Credit Card Fraud Detection  via Anomaly Detection.html)
+To view the project notebook: 
+[Credit Card Fraud Detection](https://mahadev001.github.io/Mahadev-Upadhyayula/Credit-Card-Fraud-Detection-via-Anmoly-Detection-python-/Credit Card Fraud Detection  via Anomaly Detection.html)
+
 
 ### 2.Sentiment Analysis using NLP with Spacy and SVM
 Dataset obtained online contains labelled (positive or negative) reviews for various items in Yelp, Amazon and IMDB.

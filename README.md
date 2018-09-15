@@ -54,5 +54,5 @@ To view the read-only project notebook:
 
 ### Contact Information: 
 ### Ph: 662-771-6116
-### email: mahadev.upadhyayula@outlook.com
+### email: m_upadhyayula@outlook.com
 

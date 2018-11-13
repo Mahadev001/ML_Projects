@@ -4,7 +4,7 @@
 In this page I shall present some of the machine learning projects I have undertaken to learn new machine learning concepts as well as to showcase my skills.  which I have undertaken as a hobby. My ultimate motive would be to learn and gain expertise over several Machine Learning and data science concepts.
 
 ## ABOUT ME
-I am a double master's graduate in engineering and an alumni of Washington State University, Nanyang Technological University and Indian Institute of Technology. In order to showcase my data science skills and a deep passion towards Data science, machine learning and artificial intelligence,  I have undertaken several machine learning projects and would like to share my work. 
+I am a master's graduate in engineering and an alumni of Washington State Universityand Indian Institute of Technology. In order to showcase my data science skills and a deep passion towards Data science, machine learning and artificial intelligence,  I have undertaken several machine learning projects and would like to share my work. 
 
 ### NOTE: 
 *  This repository as well as page would be frequently updated with new projects or updates.

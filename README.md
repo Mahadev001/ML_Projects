@@ -52,7 +52,5 @@ To view the read-only project notebook:
 
 [Board Game Review Prediction](https://mahadev001.github.io/Mahadev-Upadhyayula/Board-Game-review-prediction/Board Game Review Prediction .html)
 
-### Contact Information: 
-### Ph: 662-771-6116
-### email: m_upadhyayula@outlook.com
+
 
